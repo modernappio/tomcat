@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from Daimler demo</h2>
+<h2>Demo Hello World - for Daimler</h2>
 </body>
 </html>
