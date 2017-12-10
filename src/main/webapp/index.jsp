@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from Codefresh demo</h2>
+<h2>Hello World from Daimler demo</h2>
 </body>
 </html>
